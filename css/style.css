@@ -257,15 +257,15 @@
 
 .testimonial-carousel .owl-dots {
     margin-top: 35px;
-    height: 100px;
+    height: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .testimonial-carousel .owl-dots .owl-dot {
-    width: 60px;
-    height: 60px;
+    width: 350px;
+    height: 350px;
     margin: 0 5px;
     padding: 10px;
     background: var(--secondary);
@@ -273,8 +273,8 @@
 }
 
 .testimonial-carousel .owl-dots .owl-dot.active {
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 400px;
 }
 
 .testimonial-carousel .owl-dots .owl-dot img {
