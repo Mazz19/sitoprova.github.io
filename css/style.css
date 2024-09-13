@@ -264,8 +264,8 @@
 }
 
 .testimonial-carousel .owl-dots .owl-dot {
-    width: 220px;
-    height: 220px;
+    width: 600px;
+    height: 620px;
     margin: 0 5px;
     padding: 10px;
     background: var(--secondary);
@@ -273,8 +273,8 @@
 }
 
 .testimonial-carousel .owl-dots .owl-dot.active {
-    width: 230px;
-    height: 230px;
+    width: 800px;
+    height: 620px;
 }
 
 .testimonial-carousel .owl-dots .owl-dot img {
